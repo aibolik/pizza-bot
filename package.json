@@ -1,0 +1,18 @@
+{
+  "name": "pizza-bot",
+  "version": "1.0.0",
+  "description": "Pizza bot using Microsoft Bot Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Aibol Kussain (aibolikdev@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.11.0",
+    "restify": "^6.2.3"
+  }
+}
